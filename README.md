@@ -21,18 +21,23 @@ This Jupyter notebook is designed as part of an educational series to enhance un
 
 1. **Data Cleaning and Preparation**
    - Techniques for handling missing data, anomalies, and extracting relevant features for analysis.
-
+   
 2. **Statistical Analysis**
    - Application of statistical tests to determine significant differences and correlations within the data.
+    ![image](https://github.com/user-attachments/assets/62d97694-0152-4602-8bb3-4c84c8fa8aee)
+
+     ![image](https://github.com/user-attachments/assets/ab0faab3-9ef9-4ce6-b3df-68f2785e6b5e)
 
 3. **Predictive Analytics**
    - Construction of models to forecast future trends based on historical data.
-
+   
 4. **Data Visualization**
    - Advanced visualization techniques to create dynamic plots and charts for an impactful presentation of data insights.
 
 5. **Case Study**
    - A real-world case study to apply learned techniques, demonstrating the workflow from raw data to actionable insights.
+
+   ![image](https://github.com/user-attachments/assets/320f0945-7755-45f1-8d99-3f7f57f00440)
 
 ## Getting Started
 
